@@ -1,1 +1,1 @@
-# Breast_Cancer_Wisconsin-Diagnostic-
+# Breast_Cancer_Wisconsin_Diagnostic
